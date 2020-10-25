@@ -2,7 +2,7 @@
 
 My name is Felipe Nakanishi, I'm currently a data science student amazed by machine learning and artificial intelligence.
 
-Graduated in business, i believe that strategic decisions must be based on data analysis and interpretation.
+Graduated in business, i believe that the best strategic decisions are based on data analysis and interpretation.
 
 - 🔭 Currently looking for my first opportunity as data scientist.
 - 👯 Techs: Python, R.
