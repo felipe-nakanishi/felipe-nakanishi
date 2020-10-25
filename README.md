@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Felipe Nakanishi, I'm currently a data science student amazed by machine learning and artificial intelligence.
+
+Graduated in business, i believe that strategic decisions must be based on data analysis and interpretation.
+
+- 🔭 Currently looking for my first opportunity as data scientist.
+- 👯 Techs: Python, R.
+- 📫 How to reach me: felipey.nakanishi@gmail.com | [LinkedIn](https://www.linkedin.com/in/felipe-nakanishi-56654911a/) 
+
+<!--
 <!--
 **felipe-nakanishi/felipe-nakanishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
