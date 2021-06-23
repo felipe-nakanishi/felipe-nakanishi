@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Felipe Nakanishi, I'm currently a data science student amazed by machine learning and artificial intelligence.
+My name is Felipe Nakanishi, I'm currently a data science/engineering student.
 
 Graduated in business, i believe the best strategic decisions are based on data analysis and interpretation.
 
-- 🔭 Currently looking for my first opportunity as data scientist.
-- 👯 Techs: Python, R.
-- 📫 How to reach me: felipey.nakanishi@gmail.com | [LinkedIn](https://www.linkedin.com/in/felipe-nakanishi-56654911a/) 
+- 🔭 Currently working on a data engineering project.
+- 👯 Techs: Python, R, Spark, SQL.
+- 📫 How to reach me: felipe.nakanishi@usp.alumni.br | [LinkedIn](https://www.linkedin.com/in/felipe-nakanishi-56654911a/) 
 
 <!--
 <!--
