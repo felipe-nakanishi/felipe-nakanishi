@@ -5,8 +5,8 @@ My name is Felipe Nakanishi, I'm currently a data science/engineering student.
 Graduated in business, i believe the best strategic decisions are based on data analysis and interpretation.
 
 - 🔭 Currently working on a data engineering project.
-- 👯 Techs: Python, R, Spark, SQL.
-- 📫 How to reach me: felipe.nakanishi@usp.alumni.br | [LinkedIn](https://www.linkedin.com/in/felipe-nakanishi-56654911a/) 
+- 👯 Techs: Python, SQL, PySpark.
+- 📫 How to reach me: felipey.nakanishi@gmail.com | [LinkedIn](https://www.linkedin.com/in/felipe-nakanishi-56654911a/) 
 
 <!--
 <!--
