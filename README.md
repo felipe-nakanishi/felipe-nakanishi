@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Felipe Nakanishi, Always learning about data.
+My name is Felipe Nakanishi.
 
 - 👯 Techs: Python, SQL, PySpark.
 - 📫 How to reach me: felipey.nakanishi@gmail.com | [LinkedIn](https://www.linkedin.com/in/felipe-nakanishi-56654911a/) 
